@@ -1,5 +1,3 @@
-//referenced from Dave Gary Youtube channel
-
 
 let x = 1; //global scope
 
